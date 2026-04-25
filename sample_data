@@ -1,0 +1,9 @@
+name,current_title,current_company,years_experience,skills,education,location,bio,open_to_work,notice_period,expected_salary
+Arjun Sharma,Senior Software Engineer,Razorpay,5,"Python,FastAPI,PostgreSQL,Redis,Kafka,AWS",B.Tech Computer Science IIT Delhi,Bangalore India,Backend engineer specializing in high-throughput payment systems.,true,30 days,35-40 LPA
+Priya Nair,Software Engineer,PhonePe,3,"Python,Django,MySQL,RabbitMQ,GCP",B.Tech Information Technology NIT Trichy,Bangalore India,Full-stack engineer with strong backend focus.,true,immediate,22-28 LPA
+Rohit Gupta,Principal Engineer,Amazon,9,"Go,Python,Distributed Systems,Kafka,AWS,Kubernetes",M.Tech Computer Science IIT Bombay,Hyderabad India,Principal engineer with deep expertise in distributed systems.,false,90 days,70-80 LPA
+Sneha Krishnamurthy,Backend Developer,Swiggy,4,"Python,FastAPI,Redis,PostgreSQL,Docker",B.Tech CSE VIT Vellore,Bangalore India,Backend developer building high-scale APIs.,true,30 days,28-35 LPA
+Aditya Mehta,Software Engineer,Zepto,2,"Python,Flask,MySQL,AWS",B.Tech Computer Science BITS Pilani,Mumbai India,Early-career engineer building backend services.,true,immediate,15-20 LPA
+Kavya Reddy,Senior Engineer,Stripe,6,"Go,Python,PostgreSQL,Kafka,AWS,Kubernetes,Redis",M.S. Computer Science Stanford,Remote,Senior payment infrastructure engineer at global fintech.,true,60 days,55-65 LPA
+Manish Agarwal,Tech Lead,Paytm,7,"Python,Django,PostgreSQL,RabbitMQ,AWS,Redis",B.Tech Computer Science IIT Roorkee,Noida India,Tech lead managing a team of 8 engineers.,false,60 days,45-55 LPA
+Divya Iyer,Software Developer,TCS,3,"Java,Spring Boot,MySQL,REST APIs",B.Tech IT Anna University,Chennai India,Enterprise software developer transitioning to product companies.,true,30 days,15-22 LPA
