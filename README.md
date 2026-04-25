@@ -19,7 +19,7 @@ Paste a Job Description → get a fully ranked, scored, and explained candidate 
 
 🔗 **[Deployed App — Click to try](https://talentscout-ai-gvr7ss2cwwwyq7dmybrkkm.streamlit.app/)**
 
-Demo video: [Watch 4-min walkthrough](YOUR_LOOM_URL_HERE)
+Demo video: [Watch 4-min walkthrough](https://www.loom.com/share/2b979b768b3d4631a599604b7cd9a078)
 
 ---
 
