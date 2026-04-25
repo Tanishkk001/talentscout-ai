@@ -17,7 +17,7 @@ Paste a Job Description → get a fully ranked, scored, and explained candidate 
 
 ## Live Demo
 
-🔗 **[Deployed App — Click to try](YOUR_STREAMLIT_URL_HERE)**
+🔗 **[Deployed App — Click to try](https://talentscout-ai-gvr7ss2cwwwyq7dmybrkkm.streamlit.app/)**
 
 Demo video: [Watch 4-min walkthrough](YOUR_LOOM_URL_HERE)
 
