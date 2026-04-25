@@ -456,7 +456,7 @@ if "results" in st.session_state and st.session_state["results"]:
             xaxis_title="Match Score →",
             yaxis_title="Interest Score →",
         )
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, use_container_width=True, key="scatter_main_chart")
 
     with col_table:
         st.markdown("#### Ranked Shortlist")
@@ -524,7 +524,7 @@ if "results" in st.session_state and st.session_state["results"]:
             legend=dict(orientation="h", yanchor="bottom", y=-0.5),
             yaxis_range=[0, 100],
         )
-        st.plotly_chart(fig2, use_container_width=True)
+        st.plotly_chart(fig2, use_container_width=True, key="bar_scores_chart")
 
         # ── Download CSV ──
         export_df = pd.DataFrame(
@@ -655,7 +655,7 @@ if "results" in st.session_state and st.session_state["results"]:
                         )
                     )
                     fig_mini.update_layout(height=100, margin=dict(l=10, r=10, t=30, b=0))
-                    st.plotly_chart(fig_mini, use_container_width=True)
+                    st.plotly_chart(fig_mini, use_container_width=True, key=f"gauge_{rank}_{label}_{val}")
 
                 st.markdown("**💡 Match Analysis**")
                 st.markdown(md.get("match_explanation", "_No analysis available_"))
